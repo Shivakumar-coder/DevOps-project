@@ -11,3 +11,5 @@ pipeline {
                 echo "Building ${env.mainproj}..."
             }
         }
+    }
+}
